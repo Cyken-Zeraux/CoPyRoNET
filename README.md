@@ -19,7 +19,9 @@ Optional: WiringPiV2
 
 Current Features:
 Accessing Joysticks, Gamepads, Mice, Keyboards and any device compatible with Pygame.
+
 Transmitting device input real-time through TCP stream
+
 Performing actions on the server device (targeted towards ARM devices) supporting Python.
 
 Future Features:
