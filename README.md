@@ -6,13 +6,13 @@ Pronounced 'Koe-Pie-Net', a Python '2.7.9' Client-Server framework that reads Jo
 Dependencies:
 
 Client:
-Python 2.7
-Twisted-Matrix
-Zope-Interface V4
+Python 2.7,
+Twisted-Matrix,
+Zope-Interface V4,
 Pygame
 
 Server:
-Client Dependencies
+Client Dependencies,
 Optional: WiringPiV2
 
 
