@@ -1,18 +1,25 @@
 CoPyRoNET
 =========------=========--------=========---------========-------=========------=====-------======------===---====----=
 
-Pronounced 'Koe-Pie-Net', a Python '2.7.9' Client-Server framework that reads Joystick input and interacts with physical pins on a Raspberry Pi or Beaglebone computer over a network.
+a Python 2 Client-Server framework that reads Joystick input and allows for real-time device interaction
+over a network.
+
 
 Dependencies:
 
 Client:
 Python 2.7,
+
 Twisted-Matrix,
+
 Zope-Interface V4,
-Pygame
+
+Pygame 1.9.2pre
+
 
 Server:
 Client Dependencies,
+
 Optional: WiringPiV2
 
 
